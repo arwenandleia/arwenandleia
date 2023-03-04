@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-I've been coding since I was a teenager. After a brief hiatus (working in the corporate work) I am looking to get back into freelancing and learning new tricks along the way.
+I've been coding since I was a teenager. After a brief hiatus (working in the corporate world) I am looking to get back into freelancing and learning new tricks along the way.
 
 * 🌍  I'm based in Phuket
 * 🧠  I'm learning Full Stack Web Development
