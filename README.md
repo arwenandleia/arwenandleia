@@ -5,6 +5,7 @@ Aspiring Full Stack Webdeveloper
 --------------------------------
 
 Hello there! I'm Dixi, a passionate programmer with a love for diving into the depths of both code and the ocean. 
+
 🌊 As a scuba instructor by day and a freelance programmer by night, I've found the perfect balance between my two passions. With over 20 years of programming experience since the age of 15, I've honed my skills in various languages and technologies. 
 
 💻 My programming repertoire includes C/C++, MetaTrader 4 (MQL4), Python, JavaScript, HTML, CSS, and Bootstrap. Whether it's crafting efficient algorithms in C++, building robust trading strategies with MQL4, or developing dynamic web applications using Python, JS, HTML, CSS, and Bootstrap, I thrive on bringing ideas to life through elegant code. 
