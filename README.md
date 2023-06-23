@@ -5,10 +5,14 @@ Aspiring Full Stack Webdeveloper
 --------------------------------
 
 Hello there! I'm Dixi, a passionate programmer with a love for diving into the depths of both code and the ocean. 
-🌊 As a scuba instructor by day and a freelance programmer by night, I've found the perfect balance between my two passions. With over \[20\] years of programming experience since the age of 15, I've honed my skills in various languages and technologies. 
+🌊 As a scuba instructor by day and a freelance programmer by night, I've found the perfect balance between my two passions. With over 20 years of programming experience since the age of 15, I've honed my skills in various languages and technologies. 
+
 💻 My programming repertoire includes C/C++, MetaTrader 4 (MQL4), Python, JavaScript, HTML, CSS, and Bootstrap. Whether it's crafting efficient algorithms in C++, building robust trading strategies with MQL4, or developing dynamic web applications using Python, JS, HTML, CSS, and Bootstrap, I thrive on bringing ideas to life through elegant code. 
+
 🌟 While my work as a scuba instructor fulfills my adventurous spirit and allows me to explore the mesmerizing underwater world, I'm equally driven to expand my horizons in the programming realm. That's where my freelance programming comes into play. I'm excited to collaborate on projects, solve complex challenges, and deliver high-quality solutions to clients. 
+
 📬 If you have any exciting projects or opportunities, feel free to reach out. I'm always eager to dive into new ventures and make a positive impact through my programming skills. Let's connect and make waves together! 🌊💻
+
 
 * 🌍  I'm based in Phuket, Thailand
 * 🖥️  See my portfolio at [My Github projects](http://github.com/arwenandleia)
