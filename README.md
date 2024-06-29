@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Business Analyst
 ----------------------------------
 
-I am passionate about crafting intuitive and impactful digital experiences through my expertise in front-end web development and mobile application design. With proficiency in HTML5, CSS3, and JavaScript, I specialize in creating responsive interfaces that resonate with users. Beyond design, I empower applications with robust functionalities using React and React Native, ensuring seamless experiences across platforms. My backend skills in NodeJS and SQL drive data-driven solutions, enhancing performance and scalability. Additionally, I delve into the realms of artificial intelligence and machine learning, leveraging these technologies for innovative solutions in business analysis, statistical modeling, time series forecasting, and automation. Let's collaborate to bring your digital ideas to life with creativity, precision, and cutting-edge technology.
+I am passionate about crafting intuitive and impactful digital experiences through my expertise in front-end web development and mobile application design. 
+
+With proficiency in HTML5, CSS3, and JavaScript, I specialize in creating responsive interfaces that resonate with users. Beyond design, I empower applications with robust functionalities using React and React Native, ensuring seamless experiences across platforms. 
+
+My backend skills in NodeJS and SQL drive data-driven solutions, enhancing performance and scalability. 
+
+Additionally, I delve into the realms of artificial intelligence and machine learning, leveraging these technologies for innovative solutions in business analysis, statistical modeling, time series forecasting, and automation. 
+
+Let's collaborate to bring your digital ideas to life with creativity, precision, and cutting-edge technology.
 
 * 🌍  I'm based in Phuket
 * 🖥️  See my portfolio at [this website](http://www.arwenandleia.com)
