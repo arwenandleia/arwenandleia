@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-After 10 years in the corporate world, I took a break to teach scuba diving in Phuket. What was supposed to be a 3 week break is currently on its seventh year: A career with a great work-life balance. I can help you make you dream website a reality. From the frond end all the way to deployment on a platform of your choosing. Additionally, I delve into the realms of artificial intelligence and machine learning, leveraging these technologies for innovative solutions in business analysis, statistical modeling, time series forecasting, and automation.
+After 10 years in the corporate world, I took a break to teach scuba diving in Phuket. What was supposed to be a 3 week break is currently on its seventh year: A career with a great work-life balance. 
+
+I can help you make you dream website a reality. From the frond end all the way to deployment on a platform of your choosing. Additionally, 
+
+I delve into the realms of artificial intelligence and machine learning, leveraging these technologies for innovative solutions in business analysis, statistical modeling, time series forecasting, and automation.
 
 * 🌍  I'm based in Phuket
 * 🖥️  See my portfolio at [arwenandleia](http://www.arwenandleia.com)
